@@ -13,7 +13,7 @@ Topics:
 * **Note** that this project has already been boilerplated for you. There is no need to run any installation steps beyond `yarn install`.
 
 ### Initialize Project
-
+ 
 * cd into the repository and run `yarn install`
 * run `yarn start`
 
